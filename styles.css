@@ -68,7 +68,8 @@ body {
 }
 
 .description_item {
-  font-size: 3rem;
+  font-family: "Belleza", sans-serif;
+  font-size: 3.5rem;
 }
 
 /* .animate__animated.animate__backInRight {
